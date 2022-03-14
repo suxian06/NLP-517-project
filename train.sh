@@ -1,0 +1,1 @@
+time python /homes/iws/sxian/autoencoder/autobot/scripts/spm_train.py --input=/homes/iws/sxian/autoencoder/salmon/processed/train.tok --model_prefix=/homes/iws/sxian/autoencoder/autobot/fairseq/fairseq/models/autoencoder --vocab_size=30000 --character_coverage=1.0 --model_type=bpe

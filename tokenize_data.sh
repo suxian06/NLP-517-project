@@ -1,0 +1,1 @@
+python ~/autoencoder/autobot/scripts/preprocess_huggingface.py --lang en --model roberta-base --trainpref ~/autoencoder/salmon/processed/train.txt --validpref ~/autoencoder/salmon/processed/valid.txt --testpref ~/autoencoder/salmon/processed/test.txt --workers 128 --max-len 128 --destdir ~/autoencoder/salmon/processed/

@@ -1,0 +1,1 @@
+python /homes/iws/sxian/autoencoder/autobot/sbert/sbert_nli.py --save_path /homes/iws/sxian/autoencoder/salmon/sentence_similarity/ --epochs 100 --model_path /homes/iws/sxian/autoencoder/autobot/fairseq/fairseq/models/autoencoder.py

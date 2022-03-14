@@ -1,0 +1,1 @@
+python convert_roberta_original_pytorch_checkpoint_to_pytorch.py --roberta_checkpoint_path /homes/iws/sxian/autoencoder/autobot/fairseq/fairseq/models/autoencoder.model --pytorch_dump_folder_path /homes/iws/sxian/autoencoder/autobot/fairseq/fairseq/models/autoencoder_converted.model

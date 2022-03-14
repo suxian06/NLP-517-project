@@ -1,0 +1,1 @@
+python /homes/iws/sxian/autoencoder/autobot/download_glue_data.py --data_dir /homes/iws/sxian/autoencoder/autobot/sbert/ --path_to_mrpc /homes/iws/sxian/autoencoder/autobot/sbert/MRPC/ 
