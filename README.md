@@ -1,5 +1,5 @@
 # NLP-517-project
-Final project code for the NLP-517 class at UW. All .sh written by S.Xian, helping to reproduce the results from [Sentence Bottleneck Autoencoders from Transformer Language Models](https://arxiv.org/abs/2109.00055)
+Final project code for the NLP-517 class at UW. All ```.sh``` file under this directory written by Su Xian, helping to reproduce the results from [Sentence Bottleneck Autoencoders from Transformer Language Models](https://arxiv.org/abs/2109.00055)
 
 # Dependency
 Python=3.7.11 \
