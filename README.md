@@ -8,6 +8,7 @@ cudatoolkit=11.3.1 \
 fairseq=0.9.0 \
 transformer=3.3.1 \
 sentence-transformers=0.3.7.2 \
+nltk=3.6.7
 
 # Data download instruction
 
