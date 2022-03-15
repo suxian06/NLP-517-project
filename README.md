@@ -1,5 +1,5 @@
 # NLP-517-project
-Final project code for the NLP-517 class at UW.
+Final project code for the NLP-517 class at UW. All .sh written by S.Xian, helping to reproduce the results from [Sentence Bottleneck Autoencoders from Transformer Language Models](https://arxiv.org/abs/2109.00055)
 
 # Dependency
 Python=3.7.11 \
@@ -27,13 +27,14 @@ See detail at https://github.com/attardi/wikiextractor
 
 Download the bookcorpus data for pretraining:
 ```bash
-python download_files.py --list url_list.jsonl --out out_txts
+python download_files.py --list url_list.jsonl --out bookCorpus.txt
 ```
 The downloaded bookcorpus dataset for this project can be found at
 ```bash
 /homes/iws/sxian/autoencoder/salmon/bookcorpus/bookCorpus.txt
 ```
 Which contains 286 books.
+See detail https://github.com/soskek/bookcorpus
 
 ### fine-tuning sentence similarity
 Download the data for sentence similarity task ('AllNLI.zip', 'stsbenchmark.zip', 'wikipedia-sections-triplets.zip', 'STS2017.en-de.txt.gz', 'TED2013-en-de.txt.gz', 'xnli-en-de.txt.gz')
