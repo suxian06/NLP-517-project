@@ -156,5 +156,6 @@ Results on STS test dataset, sentence similarity task.
 | Dot-Product-Similarity | 0.5426 | 0.5399 |
 
 Results on the CoLA and SST-2 dataset, sentence classification task.
-|| CoLA @ epoch 6 | CoLA @ epoch 10| SST-2 @ epoch 10|
+|| CoLA at epoch 6 | CoLA at epoch 10| SST-2 at epoch 10|
+| --- | --- | --- | --- |
 | Median accuracy |0.636 | 0.624 | 0.938 |
