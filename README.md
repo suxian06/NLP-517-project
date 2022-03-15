@@ -147,7 +147,7 @@ Not included in this repo, pls find the file under the directory /homes/iws/sxia
 
 # Table of results
 
-Results on STS test dataset, sentence similarity task
+Results on STS test dataset, sentence similarity task.
 || Pearson correlation | Spearman's correlation |
 | --- | --- | --- |
 | Cosine similarity | 0.7414 | 0.7717 |
@@ -155,3 +155,6 @@ Results on STS test dataset, sentence similarity task
 | Euclidean-Distance | 0.7470 | 0.7536 | 
 | Dot-Product-Similarity | 0.5426 | 0.5399 |
 
+Results on the CoLA and SST-2 dataset, sentence classification task.
+|| CoLA @ epoch 6 | CoLA @ epoch 10| SST-2 @ epoch 10|
+| Median accuracy |0.636 | 0.624 | 0.938 |
