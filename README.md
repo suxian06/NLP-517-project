@@ -147,9 +147,11 @@ Not included in this repo, pls find the file under the directory /homes/iws/sxia
 
 # Table of results
 
-|| Pearson correlation | Spearman's correlation ||
+Results on STS test dataset, sentence similarity task
+|| Pearson correlation | Spearman's correlation |
 | --- | --- | --- |
 | Cosine similarity | 0.7414 | 0.7717 |
 | Manhattan-Distance | 0.7466 | 0.7529 |
 | Euclidean-Distance | 0.7470 | 0.7536 | 
 | Dot-Product-Similarity | 0.5426 | 0.5399 |
+
