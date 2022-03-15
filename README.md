@@ -2,12 +2,12 @@
 Final project code for the NLP-517 class at UW.
 
 # Dependency
-Python=3.7.11
-pytorch=1.11.0
-cudatoolkit=11.3.1
-fairseq=0.9.0
-transformer=3.3.1
-sentence-transformers=0.3.7.2
+Python=3.7.11 \
+pytorch=1.11.0  \
+cudatoolkit=11.3.1 \
+fairseq=0.9.0 \
+transformer=3.3.1 \
+sentence-transformers=0.3.7.2 \
 
 # Data download instruction
 
